@@ -1,8 +1,8 @@
 # Model for communicable disease outbreak dynamics
 
-This repository contains the simulator code for the disease outbreak model by Lintusaari et al. 2018 [1]. 
-The attached jupyter notebook contains the ABC inference using ELFI [2]. 
-The observed data is the tuberculosis epidemic data from San Francisco Bay area [3].
+This repository contains the simulator code for the disease outbreak model by Lintusaari et al. 2018. 
+The attached jupyter notebook contains the ABC inference using ELFI. 
+The observed data is the tuberculosis epidemic data from San Francisco Bay area.
 
 The attached code is tested with Python 3.5 and ELFI v. 0.7.1.
 
